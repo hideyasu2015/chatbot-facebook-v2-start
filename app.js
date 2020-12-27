@@ -866,5 +866,5 @@ function isDefined(obj) {
 // })
 
 app.listen(process.env.PORT || 3000, function () {
-    console.log('running on port %d in %s', this.address().port, app.settings.env)
+    console.log('running on port %d in %s', this.address().port, app.settings.env);
 });
