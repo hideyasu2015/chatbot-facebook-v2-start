@@ -1,6 +1,14 @@
 # Initial code for Udemy course [ChatBots: Messenger ChatBot - DialogFlow and nodejs](https://www.udemy.com/chatbots/?couponCode=GITHUB)
 
 ``` bash
+npm startのヘルプを見る
+npm --help start
+
+
+herokuのnodeでは
+web: npm startが自動的に走る
+
+
 webpackが無いので使えない scriptにも記載していない
 # install dependencies
 npm install
